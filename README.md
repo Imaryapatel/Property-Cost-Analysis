@@ -60,12 +60,14 @@ Project Structure:
 /src
   └── main
       └── java
-          └── com.example.propertyanalysis
-              ├── WebScraper.java
-              ├── HTMLParser.java
-              ├── Trie.java
-              ├── Autocomplete.java
-              └── Main.java
+          └── com
+              └── example
+                  └── propertyanalysis
+                      ├── WebScraper.java         # Handles web scraping using Selenium
+                      ├── HTMLParser.java         # Parses HTML content for data extraction
+                      ├── Trie.java               # Implements Trie data structure for autocomplete
+                      ├── Autocomplete.java       # Manages the autocomplete functionality
+                      └── Main.java        
               
 1. WebScraper.java: Contains Selenium automation logic for web scraping property data.
 2. HTMLParser.java: Parses HTML content and extracts structured data from web pages.
