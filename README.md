@@ -57,18 +57,6 @@ b. Frequency Counting: Prioritizes popular searches.
 c. Spell-Checking: Corrects user input for better accuracy in search results.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Project Structure:
-/src
-  └── main
-      └── java
-          └── com
-              └── example
-                  └── propertyanalysis
-                      ├── WebScraper.java         # Handles web scraping using Selenium
-                      ├── HTMLParser.java         # Parses HTML content for data extraction
-                      ├── Trie.java               # Implements Trie data structure for autocomplete
-                      ├── Autocomplete.java       # Manages the autocomplete functionality
-                      └── Main.java               # Entry point to run the application
-
 1. WebScraper.java: Contains Selenium automation logic for web scraping property data.
 2. HTMLParser.java: Parses HTML content and extracts structured data from web pages.
 3. Trie.java: Implements the Trie data structure for autocomplete functionality.
