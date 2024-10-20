@@ -67,8 +67,8 @@ Project Structure:
                       ├── HTMLParser.java         # Parses HTML content for data extraction
                       ├── Trie.java               # Implements Trie data structure for autocomplete
                       ├── Autocomplete.java       # Manages the autocomplete functionality
-                      └── Main.java        
-              
+                      └── Main.java               # Entry point to run the application
+
 1. WebScraper.java: Contains Selenium automation logic for web scraping property data.
 2. HTMLParser.java: Parses HTML content and extracts structured data from web pages.
 3. Trie.java: Implements the Trie data structure for autocomplete functionality.
