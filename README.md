@@ -69,8 +69,8 @@ Future Improvements:
 3. Add a user-friendly GUI to enhance interaction and data visualization.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Contributions:
--> Feel free to contribute to this project by submitting issues, pull requests, or suggestions for future improvements.
+1. Feel free to contribute to this project by submitting issues, pull requests, or suggestions for future improvements.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 License
--> This project is licensed under the MIT License. 
+1. This project is licensed under the MIT License. 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
