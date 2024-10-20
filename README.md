@@ -52,9 +52,9 @@ Before searching, user inputs such as zip codes and price ranges are validated u
 4. Search Optimization
 Search results are processed with:
 
-a. Indexing: Speeds up data retrieval.
-b. Frequency Counting: Prioritizes popular searches.
-c. Spell-Checking: Corrects user input for better accuracy in search results.
+1. Indexing: Speeds up data retrieval.
+2. Frequency Counting: Prioritizes popular searches.
+3. Spell-Checking: Corrects user input for better accuracy in search results.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Project Structure:
 1. WebScraper.java: Contains Selenium automation logic for web scraping property data.
